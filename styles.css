@@ -11,7 +11,7 @@ body {
 
 /* Hero Section Styles */
 .hero {
-    background-image: url('/img/portfolio.jpg');
+    background-image: url('img/portfolio.jpg');
     background-size: cover;
     color: #fff;
     text-align: center;
